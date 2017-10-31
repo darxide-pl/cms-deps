@@ -1,0 +1,23 @@
+{
+  "name": "cms-deps",
+  "version": "1.0.0",
+  "description": "Dev dependecies for my CMS",
+  "main": "charts",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darxide-pl/cms-deps.git"
+  },
+  "keywords": [
+    "cms",
+    "cake-php"
+  ],
+  "author": "Dariusz \"darXide\" Majchrzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darxide-pl/cms-deps/issues"
+  },
+  "homepage": "https://github.com/darxide-pl/cms-deps#readme"
+}
